@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+torch
+torchvision
+util
+scipy
+net
+tqdm
